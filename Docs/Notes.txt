@@ -1,0 +1,1 @@
+This is an empty WPF application with a preset folder structure
